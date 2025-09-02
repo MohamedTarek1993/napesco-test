@@ -946,3 +946,13 @@ display: none;
   }
 }
 
+
+
+
+.certificate_box{
+  transition: .25s all ease-in-out;
+}
+.certificate_box:hover{
+  transform: scale(1.1);
+  transition: .25s all ease-in-out;
+}

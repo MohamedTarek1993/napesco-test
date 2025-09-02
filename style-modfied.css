@@ -807,3 +807,11 @@ p {
     font-size: 11px !important;
   }
 }
+
+.certificate_box{
+  transition: .25s all ease-in-out;
+}
+.certificate_box:hover{
+  transform: scale(1.1);
+  transition: .25s all ease-in-out;
+}
